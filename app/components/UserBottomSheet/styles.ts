@@ -17,7 +17,8 @@ export const UserInput = styled.TextInput`
 `
 
 export const LabelInput = styled.Text`
-  margin-top: 10px;
+  margin-top: 9px;
+  margin-left: 12px
   color: rgba(0, 0, 0, 0.6);
 `
 
